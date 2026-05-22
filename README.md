@@ -74,7 +74,7 @@ tomato-disease-app/
 ```
 
 ---
-👉 **[アプリを開く](https://kliework4510-tomato-disease-app.hf.space**)
+👉 **[アプリを開く](https://kliework4510-tomato-disease-app.hf.space)**
 
 ## 📦 データセット
 
