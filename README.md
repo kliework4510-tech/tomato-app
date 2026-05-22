@@ -74,6 +74,7 @@ tomato-disease-app/
 ```
 
 ---
+👉 **[アプリを開く](https://huggingface.co/spaces/kliework4510/tomato-disease-app)**
 
 ## 📦 データセット
 
